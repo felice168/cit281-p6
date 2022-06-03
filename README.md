@@ -19,4 +19,4 @@ The base Shape class will provide the common functionality of a method that retu
 
 ### Code
 
-Please click the **"View on Github"** buttom on the top of the page to see the project code
+Please click the **"View on Github"** buttom on the top of the page to see the project code and other works.
